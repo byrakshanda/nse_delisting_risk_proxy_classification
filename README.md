@@ -9,7 +9,7 @@ company name attributes).
 The source dataset contains only currently active companies (no delisted ones), 
 so real delisting outcomes aren't available. I built a **proxy label** instead: 
 companies with below-median listing tenure (~10.5 years) are labeled "High Risk", 
-and the rest "Low Risk". This project demonstrates the Random Forest workflow — 
+and the rest "Low Risk". This project demonstrates the Random Forest workflow -
 it is **not** a real delisting-risk predictor.
 
 ## Dataset
